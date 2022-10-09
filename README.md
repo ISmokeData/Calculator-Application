@@ -62,7 +62,7 @@ This is the easiest and most convenient way to build apps without the need for a
  
 ## Screenshots
 
-![App Screenshot](https://github.com/Dhanrajcodes/Calculator-Application/blob/main/screenshot.jpg)
+![App Screenshot](https://github.com/Dhanrajcodes/Calculator-Application/blob/main/screenshots.png)
 
 
 ## 🚀 About Me
